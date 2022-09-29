@@ -1,0 +1,22 @@
+{
+  "name": "tdd-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "name-normalizer.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HaleyNicole126/tdd-practice-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HaleyNicole126/tdd-practice-js/issues"
+  },
+  "homepage": "https://github.com/HaleyNicole126/tdd-practice-js#readme",
+  "dependencies": {
+    "jest": "^29.0.3"
+  }
+}
